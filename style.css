@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    margin-top: 50px;
+}
+*{
+    border: solid;
+    border-color:ghostwhite;
+}
+.header *{
+    border: solid;
+    }
+    body{
+        background-color:pink;
+        
+    
+    }
